@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.content{
+    width: 100%;
+    height: 100%;
+    padding: 4vw 3vw;
+}
+.content h1{
+    text-align: center;
+    font-size: 2.7vw;
+}
+.content h1 span{
+    color: orange;
+    font-size: 3.4vw;
+}
+.content h3{
+    font-size: 1.5vw;
+    font-family: sans-serif;
+    padding-top: 2vw;
+    padding-left: 19vw;
+}
+.content li{
+    list-style: none;
+    font-size: 1.2vw;
+    padding-left: 23vw;
+    font-style: normal;
+}
